@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Interior Consultant Landing Page}</h1>
+<h1 align="center">Interior Consultant Landing Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://interior-consultant-landing-page.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/ChrisNdungu-dev/interior-consultant-challenge">
       Solution
     </a>
     <span> | </span>
@@ -33,7 +33,7 @@ Introduce your projects by taking a screenshot or a gif.
 
 
 - Where can I see your demo?
-[demo]()
+[demo](https://interior-consultant-landing-page.netlify.app/)
 
 
 ### Built With
